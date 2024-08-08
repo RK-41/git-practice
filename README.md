@@ -1,1 +1,3 @@
-# git-practice
+# Git Practice
+
+Updating README.md
